@@ -1,5 +1,6 @@
 PROJECTED MEDITERRANEAN SUMMER WARMING
 ======================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787550.svg)](https://doi.org/10.5281/zenodo.6787550)
 
 Figure number: Figure 10.21
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 10
